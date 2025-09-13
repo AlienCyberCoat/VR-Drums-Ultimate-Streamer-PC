@@ -154,10 +154,3 @@ variable i is set to 0.
 while i is less than the amount of blocks in our list,
 increment i before the loop executes. (++ comes first, so do it first!)
 
-Ok, so that's all the code we saw, and hopefully it is a little less intimidating for those who look at it and just see a wall of text.
-
-The conclusion I have come to as to what this code example does is that it will randomly turn the lights on and off on a ship.
-
-
-Edit: So, here's a rundown of WHAT the code does.
-Nobody ↑ :
