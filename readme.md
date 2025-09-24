@@ -245,7 +245,7 @@ Select the MP3.
 
 Your song and chart will load and be ready to be played. You will see the album art.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5cc7de92-a3e4-4974-ab8d-7c10a68333fe)
+
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e69f4180-40a5-4e71-8893-8e9c155798d3)
 
@@ -462,6 +462,7 @@ Gideon 2 Framework💾XR
 PCVR: https://store.steampowered.com/app/2354400/
 
 Meta Quest: https://www.meta.com/experiences/24141290282183979/
+
 
 
 
