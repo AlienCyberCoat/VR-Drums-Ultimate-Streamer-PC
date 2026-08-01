@@ -1,4 +1,4 @@
-*** Closed ***
+*** Closed *** This was past help information and shouldn't be used at all, the game has been updated and git removed. Join discord now if you want to help in anyway.
 Removed v19+
 *** (See the new Universal Web Help Guide) >> https://aliencybercoat.wixsite.com/home/games ***
 
