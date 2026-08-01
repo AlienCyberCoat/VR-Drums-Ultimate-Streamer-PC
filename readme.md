@@ -1,4 +1,4 @@
-*** Repository is closed *** OLD Beta Help
+*** Closed ***
 *** (See the new Universal Web Help Guide) >> https://aliencybercoat.wixsite.com/home/games ***
 
 
