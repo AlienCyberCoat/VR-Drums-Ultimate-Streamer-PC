@@ -1,6 +1,6 @@
-*** Closed *** This was past help information and shouldn't be used at all, the game has been updated and git removed. Join discord now if you want to help in anyway.
+*** Closed *** This was past help information for early alpha and shouldn't be used at all. *** (See the new Universal Web Help Guide) >> https://aliencybercoat.wixsite.com/home/games *** Join discord now if you want to help in anyway.
 
-*** (See the new Universal Web Help Guide) >> https://aliencybercoat.wixsite.com/home/games ***
+
 
 
 ░░░VRDUS░░░░░░░░░░░░░░░░░░░░░
