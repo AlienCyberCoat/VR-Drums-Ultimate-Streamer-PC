@@ -5,7 +5,7 @@
 
 ░░░VRDUS░░░░░░░░░░░░░░░░░░░░░
 
-Select VR Drums Ultimate Steamer from your library in Steam. While the loading screen is up put your VR unit on your head, sit and center yourself in your play area and wait for the game to load.
+Select VR Drums Ultimate Steamer from your library in Steam. While the loading screen is up put your VR unit on, sit and center yourself in your play area and wait for the game to load.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7bbae2a1-ecdc-41d8-b1a2-79ff70c1629c)
 
