@@ -1,4 +1,4 @@
-*** Closed *** This was past project and help information for early alpha and shouldn't be used at all. *** (See the new Universal Web Help Guide) >> https://aliencybercoat.wixsite.com/home/games *** Now using Discord.
+*** Closed *** This was past project and help information for early alpha and shouldn't be used at all. *** (See the new Universal Web Help Guide with updated info) >> https://aliencybercoat.wixsite.com/home/games *** Now using Discord.
 
 
 
